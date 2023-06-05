@@ -39,4 +39,4 @@ jobs:
           app-name: 'ConnectToNetwork'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E010A7281E4B424F9F2A065E8A42CD81 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6FF32FBE69A84AC6AB4BDA25F41B4E7B }}
